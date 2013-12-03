@@ -1,0 +1,6 @@
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/bin/Debug/Newtonsoft.Json.dll
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/bin/Debug/FAD.API.SDK.dll.mdb
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/bin/Debug/FAD.API.SDK.dll
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/obj/Debug/FAD.API.SDK.dll
+/Users/mamoonseth/FAD.API.SDK/FAD.API.SDK/FAD.API.SDK/obj/Debug/FAD.API.SDK.dll.mdb
